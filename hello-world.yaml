@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: smuftah/cgiimage:v1
+        image: smuftah/cgiimage:v0.1
         ports:
         - containerPort: 80
         resources:
